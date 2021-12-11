@@ -1,0 +1,26 @@
+{
+  "name": "clock-discord-rpc",
+  "version": "1.0.0",
+  "description": "A simple discord rpc which runs a clock on your profile",
+  "main": "index.js",
+  "dependencies": {
+    "discord-rpc": "^3.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "nodejs",
+    "javascript",
+    "js",
+    "AK",
+    "rpc",
+    "discord-rpc",
+    "discordjs",
+    "clock"
+  ],
+  "author": "AK",
+  "license": "ISC"
+}

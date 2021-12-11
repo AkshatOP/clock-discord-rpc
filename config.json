@@ -1,0 +1,11 @@
+{
+    "clientID": "918805519764963388",
+    "transport": "ipc",
+    "data": {
+        "details": "My Local Time(IST)",
+        "state": "My Local Time(IST)",
+        "smallImageKey": "ak",
+        "smallImageText": "Made by AK",
+        "instance": false
+    }
+}
